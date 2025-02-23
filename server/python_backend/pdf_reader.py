@@ -4814,4 +4814,921 @@ if __name__ == "__main__":
             print(f"Page {page_number}: {text}")
     except Exception as e:
         print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+    # New example usage
+    try:
+        result = extract_text_from_pdf("path/to/your/file.pdf")
+        print("Extracted Text:")
+        for page_number, text in result['pages'].items():
+            print(f"Page {page_number}: {text}")
+    except Exception as e:
         print(f"Error: {e}") 
